@@ -1,1 +1,4 @@
-A place to update project status and meetings
+ProjectUpdatesAndWiki
+====================
+
+This place is for project status and meeting updates
